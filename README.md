@@ -1,1 +1,4 @@
-
+https://www.yuque.com/gaoxiansuanli/yydsbi/gh90b06aqsneq545?singleDoc# 《安装配置ubuntu22.04》
+https://www.yuque.com/gaoxiansuanli/yydsbi/tql6o8p3qxildl79?singleDoc# 《安装opencv》
+https://www.yuque.com/gaoxiansuanli/yydsbi/ebtaygz2k2e2gg0z?singleDoc# 《安装ROS2》
+https://www.yuque.com/gaoxiansuanli/yydsbi/hhg8kmp0uyg6g9ew?singleDoc# 《安装配置GitHub》
