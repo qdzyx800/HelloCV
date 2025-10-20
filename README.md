@@ -4,3 +4,4 @@ https://www.yuque.com/gaoxiansuanli/yydsbi/ebtaygz2k2e2gg0z?singleDoc# 《安装
 https://www.yuque.com/gaoxiansuanli/yydsbi/hhg8kmp0uyg6g9ew?singleDoc# 《安装配置GitHub》
 https://www.yuque.com/gaoxiansuanli/yydsbi/dzzyzfpbbhpzg2hw?singleDoc# 《docker的学习》
 https://www.yuque.com/gaoxiansuanli/yydsbi/vm56w8euaeaoguk2?singleDoc# 《凯撒密码程序》
+https://www.yuque.com/gaoxiansuanli/yydsbi/gnegh3vgndtph8t2?singleDoc# 《cmake学习》
