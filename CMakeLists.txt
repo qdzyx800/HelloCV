@@ -1,3 +1,5 @@
 cmake_minimum_required (VERSION 2.8)
-project (CryptoTool)
-add_executable (CryptoTool casearEncrypt.cpp)
+project (trafficlight)
+add_executable (trafficlight trafficlight.cpp)
+find_package( OpenCV REQUIRED) 
+target_link_libraries( trafficlight ${OpenCV_LIBS} )
